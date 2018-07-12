@@ -1,4 +1,4 @@
-## Bluemix account
+## Bluemix account Steps
 
 1. Ensure that you have an account on [IBM Bluemix](https://bluemix.net/)
 
